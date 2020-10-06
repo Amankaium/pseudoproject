@@ -1,1 +1,1 @@
-a = input("Login: ")
+a = input("Enter your login: ")
